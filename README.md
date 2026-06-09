@@ -19,7 +19,7 @@
 
 ---
 
-### about
+### About
 
 I'm a developer focused on building **scalable REST APIs** and **dynamic web applications**.  
 I work across the stack — from clean Express/Node backends to component-driven React frontends.  
