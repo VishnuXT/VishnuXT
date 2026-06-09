@@ -1,64 +1,99 @@
-<div align="center">
+# 📂 Vishnu Gaming Portfolio
 
-```
-██╗   ██╗██╗███████╗██╗  ██╗███╗   ██╗██╗   ██╗    ██╗   ██╗
-██║   ██║██║██╔════╝██║  ██║████╗  ██║██║   ██║    ██║   ██║
-██║   ██║██║███████╗███████║██╔██╗ ██║██║   ██║    ██║   ██║
-╚██╗ ██╔╝██║╚════██║██╔══██║██║╚██╗██║██║   ██║    ╚██╗ ██╔╝
- ╚████╔╝ ██║███████║██║  ██║██║ ╚████║╚██████╔╝     ╚████╔╝ 
-  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝       ╚═══╝  
-```
+---  
 
-**building scalable web apps — clean code, modern stack**
+## 👋 About Me
+I’m **Vishnu**, a passionate Front‑end Developer & Graphic Designer bridging clean code with stunning visuals. I turn ideas into standout digital products.
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![open to work](https://img.shields.io/badge/status-open%20to%20work-brightgreen?style=flat-square)
-![India](https://img.shields.io/badge/location-india-blueviolet?style=flat-square)
+---  
 
-</div>
+## 🛠️ Tech Stack  
+| Category | Tools |
+|----------|-------|
+| **Engine** | Unity, Unreal Engine |
+| **Languages** | C#, C++, Python |
+| **Web** | React, Vite, Tailwind CSS, Framer Motion |
+| **Design** | Figma, Adobe Suite, Blender |
+| **Backend** | Node.js, Express, MongoDB, FastAPI |
+| **3D** | Blender (modeling, animation, visualization) |
 
----
+---  
 
-### about
+## 📊 Stats  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnu&show_icons=true&theme=dark)](https://github.com/vishnu/vishnu)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu&layout=compact&theme=dark)](https://github.com/vishnu/vishnu)
 
-I'm a developer focused on building **scalable REST APIs** and **dynamic web applications**.  
-I work across the stack — from clean Express/Node backends to component-driven React frontends.  
-I care about clean architecture, performance, and maintainable code.
+---  
 
----
+## 🎨 Skill Tree  
 
-### stack
+**Frontend Development** `LVL 95`  
+`React • JavaScript • HTML5 • CSS3 • Tailwind • Vite • Responsive Design • UI Components`
 
-```
-languages   →  TypeScript · JavaScript
-frontend    →  React · Next.js · React Native
-backend     →  Node.js · Express.js
-databases   →  PostgreSQL · MongoDB
-```
+**Graphic Design** `LVL 90`  
+`Poster Design • Social Media • Branding • Digital Magazines • Event Posters • Marketing • Layout Design`
 
----
+**React Development** `LVL 88`  
+`Hooks • React Router • State Mgmt • API Integration • Component Architecture • Performance`
 
-### github stats
+**Backend** `LVL 70`  
+`Node.js • Express • MongoDB • FastAPI`
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VishnuXT&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuXT&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
-</p>
+**3D Design** `LVL 65`  
+`Blender • 3D Modeling • Animation • Visualization`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuXT&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff" />
-</p>
+---  
 
----
+## 🐙 GitHub Dashboard  
 
-### contact
+| Metric | Value |
+|--------|-------|
+| **Repositories** | 24+ |
+| **Day Streak** | 180+ |
+| **Commits** | 500+ |
+| **Stars Earned** | 50+ |
 
-[![email](https://img.shields.io/badge/email-your@email.com-informational?style=flat-square&logo=gmail&logoColor=white)](mailto:vishnu.nrd1234@email.com)
-[![linkedin](https://img.shields.io/badge/linkedin-/in/yourprofile-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-v-b78a733b8?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-[![portfolio](https://img.shields.io/badge/portfolio-yoursite.com-blueviolet?style=flat-square&logo=firefox&logoColor=white)]()
+---  
 
----
+## 📁 Projects  
 
-<div align="center">
-  <sub>— @VishnuXT —</sub>
-</div>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Portfolio Website** | Premium gaming‑inspired personal portfolio with immersive animations, particle effects, and interactive skill trees. | React • Vite • Tailwind CSS • Framer Motion |
+| **UI Component Library** | Reusable React component library with dark‑mode support, accessibility‑first design, and Storybook documentation. | React • TypeScript • Storybook • CSS Modules |
+| **Full‑stack Web App** | React front‑end, Node.js/Express REST API, MongoDB with JWT authentication. | React • Node.js • MongoDB • Express |
+
+---  
+
+## 📅 Timeline  
+
+- **2024‑Present** – Senior Front‑end Developer  
+- **2023** – Graphic Designer (Freelance) – 100+ posters & digital magazines  
+- **2022** – React Developer – Mastered Hooks, Router, Context, Redux  
+- **2021** – Web Development Journey Begins – HTML, CSS, JavaScript  
+
+---  
+
+## 🏆 Achievements  
+
+🏆 Frontend Specialist ⚛️ React Developer 🎨 Graphic Designer 📰 Magazine Creator 🖼️ Poster Expert 💡 UI Designer 🔮 Creative Thinker ⚙️ Problem Solver  
+
+---  
+
+## 📞 Contact  
+
+**GitHub:** [github.com/vishnu](https://github.com/vishnu) | **LinkedIn:** [linkedin.com/in/vishnu](https://linkedin.com/in/vishnu) | **Instagram:** @vishnu.design | **Behance:** [behance.net/vishnu](https://behance.net/vishnu) | **Email:** vishnu@email.com  
+
+🟢 **Available for freelance** – response within 24 h.
+
+---  
+
+## 🛠️ Quick Actions  
+
+[![Send Message](https://img.shields.io/badge/Send%20Message-⚡-blue?style=for-the-badge)](#)
+
+---  
+
+*Made with ❤️ using React + Vite*  
+
+---  
