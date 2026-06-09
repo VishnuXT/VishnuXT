@@ -117,7 +117,7 @@ Backend Development   ██████████████░░░░░�
 ### Design Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma,blender,photoshop,illustrator" />
+<img src="https://skillicons.dev/icons?i=figma,blender,photoshop" />
 </p>
 
 ---
