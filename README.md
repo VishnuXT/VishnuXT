@@ -248,9 +248,9 @@ Figma • Photoshop • Canva
 
 🐙 GitHub: https://github.com/VishnuXT
 
-💼 LinkedIn: [Add Your LinkedIn]
+💼 LinkedIn: https://www.linkedin.com/in/vishnu-v-b78a733b8?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
-📧 Email: [Add Your Email]
+📧 Email: vishnu.nrd1234@gmail.com
 
 🌐 Portfolio: Coming Soon
 
@@ -259,4 +259,5 @@ Figma • Photoshop • Canva
 <p align="center">
 ✨ Turning ideas into products, one project at a time.
 </p>
+
 
