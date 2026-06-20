@@ -1,117 +1,168 @@
 <h1 align="center">Hi 👋, I'm Vishnu</h1>
-<h3 align="center">Frontend Developer • Product Builder • Graphic Designer</h3>
+
+<h3 align="center">
+🚀 Product Builder • Full-Stack Developer • UI Designer
+</h3>
 
 <p align="center">
-Passionate about building impactful digital products, designing engaging user experiences, and solving real-world problems through technology.
+Building digital products that solve real-world problems through technology, design, and innovation.
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 🎓 B.Tech Student at Sree Buddha College of Engineering
 
-💻 Building full-stack web applications, desktop software, and management systems
+💡 Passionate about building products that create impact
 
-🎨 Graphic Designer with experience in branding, poster design, and UI/UX design
+🚀 Focused on Full-Stack Development, Mobile Applications, and Product Design
 
-🚀 Interested in Product Development, React Ecosystem, Firebase, and Modern Web Technologies
+🎨 Graphic Designer with experience in UI/UX, Branding, and Visual Storytelling
 
-📈 Continuously learning, building, and improving through real-world projects
-
----
-
-## 🌟 Featured Projects
-
-### 📋 NSS Attendance Management System
-A digital platform designed for NSS units to manage attendance, volunteer activities, reports, and analytics.
-
-**Tech Stack:** React, Firebase, Firestore, Vite
+🌱 Always learning, experimenting, and shipping new ideas
 
 ---
 
-### 👥 CrowdSense
-A smart crowd monitoring and management platform focused on improving event planning and decision-making through data insights.
+# 🚀 Featured Projects
 
-**Tech Stack:** React, Node.js, MongoDB
+## 📱 DevPath
+### Coding Learning Platform for Beginners
 
----
+DevPath is a mobile learning platform designed to help beginners start their programming journey through structured roadmaps, curated resources, practical exercises, and progress tracking.
 
-### 🚗 CarPool
-A ride-sharing platform that connects users for efficient and accessible transportation.
-
-**Tech Stack:** React, Firebase
-
----
-
-### 🏪 Boutique POS System
-Desktop-based inventory and billing management software developed using Electron and React.
-
-**Tech Stack:** Electron, React, SQLite
+**Highlights**
+- Learning Roadmaps
+- Beginner Friendly UI
+- Structured Learning Paths
+- Progress Tracking
+- Mobile-First Experience
 
 ---
 
-### 🎉 Clubs & Events Management System
-A centralized platform for managing club activities, event registrations, and student engagement.
+## 👥 CrowdSense
+### Smart Crowd Monitoring & Management Platform
 
-**Tech Stack:** React, Node.js, MongoDB
+A data-driven platform focused on crowd analysis, monitoring, and decision-making support for events and public spaces.
+
+**Highlights**
+- Crowd Analytics
+- Real-Time Insights
+- Event Monitoring
+- Data Visualization
 
 ---
 
-## 🛠️ Tech Stack
+## 📋 NSS Attendance Management System
+
+A complete digital platform developed for NSS units to manage attendance, volunteer records, analytics, and reporting.
+
+**Highlights**
+- Student Management
+- Attendance Tracking
+- Analytics Dashboard
+- Excel Export
+- Admin Authentication
+- Responsive PWA
+
+---
+
+## 🏢 ERP Management System
+
+A centralized enterprise management solution designed to streamline organizational operations and workflow management.
+
+**Highlights**
+- Department Management
+- User Management
+- Reporting System
+- Business Workflow Automation
+
+---
+
+## 🌐 IEEE Student Branch Website
+
+Official website developed for IEEE activities, events, announcements, and student engagement.
+
+**Highlights**
+- Event Management
+- Student Resources
+- Modern Responsive Design
+- Community Engagement
+
+---
+
+## 🔥 Unique Fire & Safety Website
+
+Professional business website developed for a fire and safety solutions company.
+
+**Highlights**
+- Corporate Branding
+- Service Showcase
+- Lead Generation
+- Responsive Design
+
+---
+
+# 🛠️ Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,vite,bootstrap" />
+</p>
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
-### Tools & Design
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishnuXT&show_icons=true&theme=tokyonight" />
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuXT&theme=tokyonight" />
+### Design & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+# 📈 GitHub Stats
 
-- Building scalable full-stack applications
-- Creating intuitive user experiences
-- Developing community-focused software solutions
-- Exploring product development and startup ideas
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=VishnuXT&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuXT&theme=tokyonight" />
+</p>
 
 ---
 
-## 🤝 Connect With Me
+# 🎯 Current Focus
+
+📱 Building **DevPath**
+
+🚀 Creating scalable full-stack applications
+
+🎨 Designing intuitive user experiences
+
+💡 Exploring startup and product development opportunities
+
+🌍 Building technology solutions for communities and organizations
+
+---
+
+# 🤝 Connect With Me
 
 📧 Email: your-email@example.com
 
-💼 LinkedIn: your-linkedin-link
+💼 LinkedIn: your-linkedin-url
 
-🌐 Portfolio: coming soon
+🌐 Portfolio: Coming Soon
+
+🐙 GitHub: https://github.com/VishnuXT
 
 ---
 
 <p align="center">
-⭐ Building products, solving problems, and learning every day.
+⭐ Turning ideas into products, one project at a time.
 </p>
